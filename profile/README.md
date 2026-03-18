@@ -1,7 +1,7 @@
 # Daykeeper
 
 <p align="center">
-  <img src="./assets/logobanner.png" width="110" />
+  <img src="./assets/logobanner.png" width="100%" />
 </p>
 
 <p align="center">
