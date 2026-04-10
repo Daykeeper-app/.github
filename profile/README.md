@@ -10,6 +10,12 @@
 
 ---
 
+# NOTE: all daykeeper-related repositories are in my personal account
+
+I made this decision to avoid the costs associated with deployment plans and to clearly reflect that the entire project was developed independently by me
+
+---
+
 Daykeeper is a timeline-based system where everything revolves around a single unit: the day.
 
 Instead of losing information in an infinite feed, posts, tasks, notes, and events are all tied to specific dates, creating a structured history you can revisit over time.
